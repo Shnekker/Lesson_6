@@ -165,7 +165,6 @@ body {
   font-size: 20px;
   line-height: 150%;
   color: #1E212C;
-  background: url("../img/img/main/icons/Clock.svg") 0 0 no-repeat;
   padding-left: 58px;
   margin-bottom: 48px;
 }
@@ -176,7 +175,7 @@ body {
   margin-bottom: 24px;
 }
 .block-text__link {
-  background: url("../img/img/main/icons/checklist.svg") 0 50% no-repeat;
+  
   padding-left: 32px;
 }
 .block-text__link:not(:last-child) {
