@@ -239,7 +239,7 @@ body {
   background-color: rgb(185, 167, 12);
   display: inline-block;
   margin-bottom: 30px;
-  maxw-width: 300px;
+  max-width: 300px;
   border: 5px dashed #424551;
   border-bottom: none;
   border-radius: 10px 20px/100px;
